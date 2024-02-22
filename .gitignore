@@ -1,0 +1,7 @@
+/.terraform
+.terraform.lock.hcl
+main.plan
+MyWebServer.pem
+terraform.tfstate
+terraform.tfstate.backup
+variables.tf
